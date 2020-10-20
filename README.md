@@ -22,7 +22,7 @@ Project2_Investiigate_a_dataset.html file contains a detailed analysis of my wor
     13 - 19 : Teenager <br/>
     20 - 30 : Young Adult <br/>
     31- 60: Adults <br/>
-    > 60 : Elders <br/>
+    >60 : Elders <br/>
 *  waiting_time_category column was added and categorized as follows:
    0 days -> Same day <br/>
    1 - 7 days -> 1 Week <br/>
