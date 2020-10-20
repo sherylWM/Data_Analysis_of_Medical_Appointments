@@ -33,10 +33,9 @@ Project2_Investiigate_a_dataset.html file contains a detailed analysis of my wor
    
 ### Conclusion
 * Nearly 20% of the dataset resulted in No shows. It was also observed that although every row in the dataset corresponded to a unique appointment ID, patient IDs were not unique. This means there were patients who have scheduled appointments more than once. This could affect the proportion of no shows in the dataset.
-
-The factors that are important for us to know if a patient will show up for their scheduled appointment are age group, hipertension, diabetes, alcoholism, waiting time (difference between Scheduled Day and Appointment Day), Scholarship and Handicap.
-1. The least number of no shows were when appointments were scheduled on the same day. If appointments were scheduled 1 to 2 months from the scheduled day of the appointment, the number of no shows increased. The proportion of no shows increases from Same Day to 1- 2 Months waiting time but then decreases.
-2. It can be said that patients would show up more on a Weekend i.e. Saturday compared to other weekdays. However, number of appointments scheduled on weekdays is more than on weekends.
-3. Jardim Camburi is the neighbourhood that has maximum number of no-show appointments. Nothing more could be concluded from the dataset.
-4. The proportion of female patients who did not show up is very similar to that of their male counterparts. This means gender does not have an impact on patients not showing up for their scheduled appointment.
-5. As no statistical tests are included in this analysis, these are findings based on exploratory data analysis done on different features.
+* The factors that are important for us to know if a patient will show up for their scheduled appointment are age group, hipertension, diabetes, alcoholism, waiting time (difference between Scheduled Day and Appointment Day), Scholarship and Handicap.
+* The least number of no shows were when appointments were scheduled on the same day. If appointments were scheduled 1 to 2 months from the scheduled day of the appointment, the number of no shows increased. The proportion of no shows increases from Same Day to 1- 2 Months waiting time but then decreases.
+* It can be said that patients would show up more on a Weekend i.e. Saturday compared to other weekdays. However, number of appointments scheduled on weekdays is more than on weekends.
+* Jardim Camburi is the neighbourhood that has maximum number of no-show appointments. Nothing more could be concluded from the dataset.
+* The proportion of female patients who did not show up is very similar to that of their male counterparts. This means gender does not have an impact on patients not showing up for their scheduled appointment.
+* As no statistical tests are included in this analysis, these are findings based on exploratory data analysis done on different features.
